@@ -2,3 +2,5 @@ this will rename files in "C:\Users\Administrator\AppData\Local\qBittorrent\BT_b
 to actual file names and will save in desktop folder "qBittorrent"
 
 require java 1.8 minumum to run
+
+source code is inculded inside .jar
